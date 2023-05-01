@@ -1,10 +1,5 @@
-# Web Starter
+# Sources
 
-> Computers are dumb. Humans make them smart.
+### Font: Hind from fontshare https://www.fontshare.com/fonts/hind
 
-Starter (boilerplate) for all future projects.
-
-## Why Does This Exist?
-* Don't with blank files
-* Common boilerplate for web projects
-* I am a human being who makes mistakes
+### Favicon from favicon.io https://favicon.io/
